@@ -1,5 +1,5 @@
 #!/bin/bash
 
-cd node
+cd node/NodeJavaScript-
 
 sudo git pull
